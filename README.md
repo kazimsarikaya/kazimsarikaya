@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+🔭 I’m currently working at [Mantis Software].
+
+I am expert about operating systems and kubernetes. At Mantis we create a custom alpine linux based PXE boot kubernetes baremetal cluster backend with Ceph. Also we maintain lots of kubernetes clusters at our customers datacenters. We love tou help your kubernetes clusters. If you have any questions or support needs, ask freely. We love helping.
+
+I am also developing a custom operating system. It will have several experimental features. Sounds interesting? Look at its repo [kazimsarikaya/turnstone]. It has a documentation page at [TurnstoneOS]. Feel free to ask anything about operating system development.
+
+
+[Mantis Software]: https://github.com/mantis-software-company
+[kazimsarikaya/turnstone]: https://github.com/kazimsarikaya/turnstone
+[TurnstoneOS]: https://turnstoneos.com
 <!--
 **kazimsarikaya/kazimsarikaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
